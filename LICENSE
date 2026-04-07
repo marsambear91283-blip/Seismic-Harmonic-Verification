@@ -19,3 +19,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+
+
+
+
+
+
+## III. Intellectual Property & Licensing
+**Title:** Project CALL-FINDER: California Seismic Baseline Audit
+**Principal Investigator:** © 2026 Michael Anthony Rodriguez [cite: 2026-02-07]
+
+This repository is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International (CC BY-NC-ND 4.0)**. 
+
+**Restrictions:**
+1. **Attribution:** Proper credit must be given to the origin.
+2. **Non-Commercial:** This data/math may not be used for commercial gain.
+3. **No-Derivatives:** The Triple-Lock constants and Rodriguez Rule of Ten must remain in their original form.
+
+[Triple-Lock Protocol:] $D_{SYS}: 2145.79 \otimes K_{PLN}: 107.19 \otimes M_{SCL}: 1.077$ [cite: 2026-02-07]
